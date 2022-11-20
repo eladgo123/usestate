@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
-
+button { 
+  background-color: rgb(240, 240, 110);
+  width: 100px;
+  margin: 5px;
+  box-shadow: 2px 1px;
+  font-weight: bolder;
+  border-color:cornflowerblue;   
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
