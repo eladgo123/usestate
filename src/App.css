@@ -9,6 +9,10 @@ button {
   font-weight: bolder;
   border-color:cornflowerblue;   
 }
+input {
+  background-color: rgb(110, 240, 190);
+  width: 80px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
